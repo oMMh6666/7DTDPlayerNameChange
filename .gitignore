@@ -68,11 +68,10 @@ classes/
 # Visual Studio Code
 ######################
 .vscode/
-/.vs/
 /7DTDPlayerNameChange/bin/
 /7DTDPlayerNameChange/obj/
-/7DTDPlayerNameChange/Properties/
 /ScreenSnap/
+/gitupdate.txt
 
 ######################
 # Maven
