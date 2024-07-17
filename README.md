@@ -10,4 +10,5 @@
 
 ### 4. 输入新玩家名，并点击保存
 
-![20240717135920](https://github.com/user-attachments/assets/52174293-189a-4861-a304-0c9cbfc77f63)
+
+![20240717135920](https://github.com/user-attachments/assets/8dfad32e-876b-4d0f-91fa-c4ec2b3181b4)
